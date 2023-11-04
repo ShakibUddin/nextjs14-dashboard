@@ -2,8 +2,8 @@ import AcmeLogo from "@/app/ui/acme-logo";
 import styles from "@/app/ui/home.module.css";
 
 import Link from "next/link";
-import { lusitana } from "./ui/fonts/font";
 import Image from "next/image";
+import { lusitana } from "./ui/fonts/font";
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
